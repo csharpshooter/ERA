@@ -5,7 +5,7 @@
 ## Notes
 ---------------------------------------------------------------------------------------------------------------------------
 1) Used GPU
-2) Receptive Field = 60
+2) Receptive Field = 91
 3) Link to dephtwise seperable convolution class : https://github.com/csharpshooter/ERA/blob/main/A9/src/models/depthwise_seperable_conv2d.py
 4) Used Depthwise Separable Convolution
 5) Link to cnn model : (https://github.com/csharpshooter/ERA/blob/main/A9/src/models/cnn_model.py)
