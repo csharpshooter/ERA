@@ -19,22 +19,22 @@
 ## Project Structure
 --------------------
 
-![Project Structure](https://github.com/csharpshooter/EVA/blob/master/A7/images/ProjectStructure.png)
+![Project Structure](https://github.com/csharpshooter/ERA/blob/master/A9/images/ProjectStructure.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## Test and Train, Loss and Accuracy Graphs
 
-![Graphs](https://github.com/csharpshooter/EVA/blob/master/A7/images/Train-Test-Graph-A7.png)
+![Graphs](https://github.com/csharpshooter/ERA/blob/master/A9/images/taintestgraphs.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## Misclassified Images Graph
 
-![Misclassified](https://github.com/csharpshooter/EVA/blob/master/A7/images/Misclassified-Cifar10-A7.png)
+![Misclassified](https://github.com/csharpshooter/ERA/blob/master/A9/images/missclassifiedimages.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## Model Summary
 
-![ModelSummary](https://github.com/csharpshooter/EVA/blob/master/A7/images/A7-ModelSummary.png)
+![ModelSummary](https://github.com/csharpshooter//ERA/blob/master/A9/images/modelsummary.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## Logs
