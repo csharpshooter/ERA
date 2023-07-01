@@ -14,7 +14,7 @@
 8) Trained for 200 epochs, highest accuracy = 77
 9) Implemented modular code, model checkpoint to save best model and also to save model along with loss and accuracy data
 10) Implemented Image Augmentation using albumentations (Horizontal Flip, Coarse Dropout, Shift Scale Rotate)
-11) Used less than 136928 parameters (less than 200k)
+11) Used less than 136928 parameters (less than 200k) https://github.com/csharpshooter/ERA/blob/main/A9/images/modelsummary.png
 ---------------------------------------------------------------------------------------------------------------------------
 
 ## Project Structure
@@ -35,7 +35,7 @@
 ---------------------------------------------------------------------------------------------------------------------------
 ## Model Summary
 
-![ModelSummary](https://github.com/csharpshooter//ERA/blob/master/A9/images/modelsummary.png)
+![ModelSummary](https://github.com/csharpshooter/ERA/blob/main/A9/images/modelsummary.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## Logs
