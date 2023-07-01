@@ -6,30 +6,31 @@
 ---------------------------------------------------------------------------------------------------------------------------
 1) Used GPU
 2) Receptive Field = 60
-3) Used Depthwise Separable Convolution
-4) Used Dilated Convolution
-5) used FC after GAP
-6) Trained for 50 epoch, highest accuracy = 82.12
-7) Got more than 80% accuracy in 32 epochs
-8) Implemented model checkpoint to save best model and also to save model along with loss and accuracy data
-9) Implemented Image Augmentation
-10) Used less than 100k parameters
+3) Link to dephtwise seperable convolution class : https://github.com/csharpshooter/ERA/blob/main/A9/src/models/depthwise_seperable_conv2d.py
+4) Used Depthwise Separable Convolution
+5) Link to cnn model : (https://github.com/csharpshooter/ERA/blob/main/A9/src/models/cnn_model.py)
+6) used Dialated convolution with stride of 2 instead of max pooling in last layer of block 
+7) used FC after GAP
+8) Trained for 200 epochs, highest accuracy = 77
+9) Implemented modular code, model checkpoint to save best model and also to save model along with loss and accuracy data
+10) Implemented Image Augmentation using albumentations (Horizontal Flip, Coarse Dropout, Shift Scale Rotate)
+11) Used less than 136928 parameters (less than 200k)
 ---------------------------------------------------------------------------------------------------------------------------
 
 ## Project Structure
 --------------------
 
-![Project Structure](https://github.com/csharpshooter/ERA/blob/master/A9/images/ProjectStructure.png)
+![Project Structure](https://github.com/csharpshooter/ERA/blob/main/A9/images/ProjectStructure.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## Test and Train, Loss and Accuracy Graphs
 
-![Graphs](https://github.com/csharpshooter/ERA/blob/master/A9/images/taintestgraphs.png)
+![Graphs](https://github.com/csharpshooter/ERA/blob/main/A9/images/traintestgraphs.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## Misclassified Images Graph
 
-![Misclassified](https://github.com/csharpshooter/ERA/blob/master/A9/images/missclassifiedimages.png)
+![Misclassified](https://github.com/csharpshooter/ERA/blob/main/A9/images/missclassifiedimages.png)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ## Model Summary
