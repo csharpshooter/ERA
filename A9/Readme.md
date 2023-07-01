@@ -5,7 +5,7 @@
 ## Notes
 ---------------------------------------------------------------------------------------------------------------------------
 1) Used GPU
-2) Achieved 83.010000 test accuracy. Model is overfitting.
+2) Achieved 83.010000 test accuracy.
 3) Receptive Field = 91
 4) Link to dephtwise seperable convolution class : https://github.com/csharpshooter/ERA/blob/main/A9/src/models/depthwise_seperable_conv2d.py
 5) Used Depthwise Separable Convolution
